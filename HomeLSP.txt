@@ -1,0 +1,25 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 1[/COLOR][/I][/B]</name>
+<thumbnail>http://supernova.zamolxismd.org/m/ch.ua/iptv.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP1.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP1.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 2[/COLOR][/I][/B]</name>
+<thumbnail>http://supernova.zamolxismd.org/m/ch.ua/iptv.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP2.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP2.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+
+
+</channel>
