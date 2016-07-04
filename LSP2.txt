@@ -5,539 +5,539 @@
 <item>
 <title>[B][I][COLOR cornflowerblue]USA Channels[/COLOR][/I][/B]</title>
 <link>http://dummytv.com</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
 </item>
 
 <item>
 <title>CCNA International</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2423.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>WWE Network</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2424.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Vevo TV Channel 3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2425.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Versus</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2426.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>UALR TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2427.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>TSN Sport 1 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2432.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>TSN Sport 2 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2431.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>TSN Sport 3 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2430.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>TSN Sport 4 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2429.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>TSN Sport 5 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2428.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>TBS HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2380.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Starz West</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2381.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Starz Kids & Family</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2382.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Starz In Black</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2383.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Starz Edge</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2384.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Starz East</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2385.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Starz Comedy</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2386.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Starz Cinema</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2387.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>SportsNet One HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2388.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Showtime West</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2389.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Showtime Next</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2390.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NFL Network HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2391.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NBCSN HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2392.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NBC E.P.L Xtra 1 (Live During EPL)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2439.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NBC E.P.L Xtra 2 (Live During EPL)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2438.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NBC E.P.L Xtra 3 (Live During EPL)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2437.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NBC E.P.L Xtra 4 (Live During EPL)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2436.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NBC E.P.L Xtra 5 (Live During EPL)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2435.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NBC E.P.L Xtra 6 (Live During EPL)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2434.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NBC E.P.L Xtra 7 (Live During EPL)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2433.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NBC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2440.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>NBA TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2441.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>MSNBC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2442.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>MMA HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2393.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>MMA Fight</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2394.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>MLB HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2395.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Miami Music TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2443.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Life Time</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2396.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Kero TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2444.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>IFC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2397.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>HBO Zone</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2445.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>HBO Signature</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2398.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>HBO Plus</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2446.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>HBO HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2447.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>HBO Family</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2448.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>HBO 2 West</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2399.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Hallmark</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2400.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Ginx</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2449.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>FXX East</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2401.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Fox Sport 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2402.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Fox News</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2403.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Fight Sport</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2450.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Encore East</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2404.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Encore Action East</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2405.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>E!</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2451.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>DJing Ibiza</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2452.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Country Music Channel</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2453.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>CNN HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2406.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>CNN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2454.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>City HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2407.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Cinemax West</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2408.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Cinemax East</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2409.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Channel 11</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2455.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>CET 99</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2456.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>CBN News</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2457.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bravo</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2410.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Big Ten Network HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2411.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>BET</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2458.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>ASD TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2459.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>AMC HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2460.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>AFN Sports</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2414.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>AFN Sports HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2412.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>AFN Sports 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2413.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>AFN Spectrum</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2415.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title> AFN Prime Pacific</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2416.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>AFN Prime Atlantic</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2417.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>AFN News</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2418.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>AFN Movie</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2419.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>AFM Pulse</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2420.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Adult Swim</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2461.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>ABC News</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2462.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>ABC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/1928.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>ABC HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2463.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>ABC Family</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2421.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>ABC Action News</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2422.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>360 North</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/2464.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Watch TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/1929.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>The Florida Channel</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/1930.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bloomberg</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/milaim/milaim/1931.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
