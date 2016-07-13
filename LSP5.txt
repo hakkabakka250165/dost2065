@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]Sky Sports Channels and More...[/COLOR][/I][/B]</title>
+<link>http://www.dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1086.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport NewsUk</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1087.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1088.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1073.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1093.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1092.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1091.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1090.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1089.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Premier Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1074.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Setanta Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1075.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Setanta</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1076.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sport ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1077.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1079.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1078.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sport Europe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1085.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Extra 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1084.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Extra 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1083.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Extra 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1082.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Extra 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1081.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Extra 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1080.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Extra 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1096.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>EuroSport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1095.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>EuroSport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1094.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Racing UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1116.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Motors TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1097.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BBC 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1142.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BBC 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1141.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BBC 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1140.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BBC 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1139.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>ITV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1146.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>ITV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1145.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>ITV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1144.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>ITV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1143.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1105.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Scifi / Horror HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1106.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1107.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1108.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1109.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Drama HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1121.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Select HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1122.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Thriller</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1123.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>True Movies 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1115.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>True Movies 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1114.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CNBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1098.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1099.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Dmax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1100.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Yesterday</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1102.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>RTE 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1101.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>RTE One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1104.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>RTE Two</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1103.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Movies 4Men</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1111.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>More4 +1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1112.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1113.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky MTV Hits</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1110.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Watch Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1117.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1118.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1119.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>5 USA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1120.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>National Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1124.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery Investigation HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1125.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery Turbo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1126.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery Science HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1127.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery Shed</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1128.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1129.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery ChannelHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1130.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1131.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1132.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1133.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Channel 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1135.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Channel 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1134.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CBS Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1136.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CBS Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1137.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1138.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
