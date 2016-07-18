@@ -10,408 +10,408 @@
 
 <item>
 <title>Star Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/946.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/946.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Star Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/945.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/945.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Star Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/944.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/944.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Star Sports 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/943.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/943.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Super Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/952.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/952.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>WWE Raw HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/916.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/916.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Digisport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/927.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/927.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Digisport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/926.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/926.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Digisport 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/925.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/925.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>CTH Channel Stadium 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/974.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/974.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>CTH Channel Stadium 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/959.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/959.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>CTH Channel Stadium 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/958.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/958.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>CTH Channel Stadium 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/957.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/957.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>CTH Channel Stadium 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/956.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/956.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>CTH Channel Stadium 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/955.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/955.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Canal Sports HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/917.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/917.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Canal Liga HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/921.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/921.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Canal Golf HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/920.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/920.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Canal Futball HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/919.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/919.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Canal Deportes HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/918.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/918.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport MAX 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/951.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/951.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport MAX 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/950.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/950.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport MAX 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/949.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/949.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport MAX 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/948.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/948.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport MAX 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/947.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/947.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 1 FR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/896.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/896.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 2 FR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/895.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/895.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 3 FR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/894.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/894.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 1 FR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/954.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/954.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 2 FR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/953.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/953.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/942.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/942.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/941.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/941.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/940.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/940.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/939.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/939.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/938.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/938.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/937.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/937.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/936.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/936.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/935.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/935.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/934.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/934.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 10 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/933.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/933.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 11 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/932.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/932.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 12 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/931.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/931.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 13 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/930.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/930.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 14 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/929.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/929.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 15 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/928.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/928.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Astro Super Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/924.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/924.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Astro Super Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/923.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/923.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Astro Super Sport 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/922.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/922.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Premium Calcio HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1328.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1328.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Premium Calcio</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1329.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1329.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Premium Calcio 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1327.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1327.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Premium Calcio 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1326.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1326.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Premium Calcio 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1325.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1325.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Premium Calcio 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1324.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1324.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Premium Calcio 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1323.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1323.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Premium Calcio 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1322.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1322.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Sky Super Calcio</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1330.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1330.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Premium Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1343.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1343.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Premium Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1342.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1342.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Sky Sport Plus HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1331.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1331.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Sky Sport24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1333.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1333.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Sky Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1336.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1336.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1335.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1335.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Sky Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1334.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1334.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Sky Sport F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1332.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1332.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Sky Moto GP HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1339.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1339.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Super Tennis</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1341.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1341.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
 <title>Fox Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/clinecenter/12072016/1340.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1340.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
