@@ -3,469 +3,247 @@
 <item>
 
 <item>
-<title>[B][I][COLOR cornflowerblue]Bein Sports Max and France...[/COLOR][/I][/B]</title>
-<link>http://www.dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+<title>MBC Pro Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1788.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport Max 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/7.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>MBC Pro Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1789.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport Max 1 (Good)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/284.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>MBC Pro Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1790.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport Max 1 HD (Local)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/107.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 1 HD (Restream)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/701.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport Max 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/3.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 2 HD (Restream)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/702.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport Max 1 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/6.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 3 HD (Restream)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/703.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport Max 1 Low</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/5.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 4 HD (Restream)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/704.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport Max 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/8.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 5 HD (Restream)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/705.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport Max 2 (Good)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/285.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 6 HD (Restream)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/721.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport max 2 HD (Local)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/108.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 7 HD (Restream)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/722.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport Max 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/4.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 8 HD (Restream)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/723.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport Max 2 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/14.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport Max 2 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/13.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 1 HD (France)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/109.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 2 HD (France)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/110.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 3 HD (France)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/111.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Bein Sports ...Local Server 1[/COLOR][/I][/B]</title>
-<link>http://www.dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 1 HD (Local 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/185.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 2 HD (Local 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/186.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 3 HD (Local 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/187.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 4 HD (Local 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/188.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 5 HD (Local 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/189.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 6 HD (Local 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/114.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 7 HD (Local 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/115.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 8 HD (Local 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/116.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 9 HD (Local 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/117.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 10 HD (Local 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/118.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Bein Sports ...Local Server 2[/COLOR][/I][/B]</title>
-<link>http://www.dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 1 HD (Local 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/131.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 2 HD (Local 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/199.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 3 HD (Local 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/200.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 4 HD (Local 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/201.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 5 HD (Local 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/202.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 6 HD (Local 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/203.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 7 HD (Local 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/204.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 8 HD (Local 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/205.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 9 HD (Local 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/206.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 10 HD (Local 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/207.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Bein Sports ...HD[/COLOR][/I][/B]</title>
-<link>http://www.dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+<title>Bein Sport 9 HD (Restream)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/724.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/9.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/242.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/10.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/243.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/11.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/244.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/12.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/245.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/20.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/246.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/21.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/695.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/79.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/248.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
 <title>Bein Sport 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/80.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/249.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/81.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 1 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1360.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 10 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/82.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 2 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1361.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 11 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/112.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 3 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1362.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 12 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/113.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 4 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1363.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 13 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/133.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 5 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1364.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 14 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/279.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 6 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1365.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 15 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/286.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 7 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1366.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 16 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/281.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 8 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1367.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 17 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/287.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 9 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1511.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>[B][I][COLOR cornflowerblue]Bein Sports ...SD[/COLOR][/I][/B]</title>
-<link>http://www.dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+<title>Bein Sport 10 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1512.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 1 (SD)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/51.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 11 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1771.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 2 (SD)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/67.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 12 HD (CSPPRO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1772.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 3 (SD)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/65.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport Max 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1152.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 4 (SD)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/63.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport Max 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1153.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 5 (SD)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/56.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 1 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/540.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 6 (SD)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/84.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 2 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/541.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 7 (SD)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/85.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 3 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/542.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 8 (SD)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/87.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 1 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/596.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 9 (SD)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/89.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 2 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/597.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 10 (SD)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/91.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport 3 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/598.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>[B][I][COLOR cornflowerblue]Bein Sports ...Low[/COLOR][/I][/B]</title>
-<link>http://www.dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 1 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/70.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 2 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/44.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 3 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/66.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 4 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/64.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 5 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/62.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 6 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/68.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 7 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/86.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 8 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/88.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 9 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/90.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 10 (Low)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://3rabsat.com:8080/live/just/just/92.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>Bein Sport HD (Spain)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://satligneteam.hopto.org:8000/live/para/para/1534.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
