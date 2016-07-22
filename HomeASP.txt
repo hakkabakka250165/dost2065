@@ -56,4 +56,13 @@
 <info>For Personal Use Only...!!!</info>
 </channel>
 
+<channel>
+<name>[B][I][COLOR cornflowerblue]Sports List & Bein...Server 7[/COLOR][/I][/B]</name>
+<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP7.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP7.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
 </channel>
