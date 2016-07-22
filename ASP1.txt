@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]Sports Channels UK and More...[/COLOR][/I][/B]</title>
+<link>http://www.dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2688.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2787.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2782.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2783.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2784.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2785.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2786.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2716.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2704.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2717.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2663.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2654.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2675.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2683.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News MD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2982.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1 MD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2948.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 MD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2959.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 MD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2999.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 MD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2990.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 MD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2965.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5 MD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2977.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Box Office HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3526.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Box Office SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3541.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Setanta Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3200.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Setanta Sports 1 (HDS Streaming)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2764.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Setanta Ireland (HDS Streaming)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2763.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>At The Races</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3181.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>At The Races (Backup)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3198.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Racing UK (Backup)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3197.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Premier Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3196.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3030.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2778.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3031.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2779.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Europe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2781.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Espn SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2780.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>British Eurosport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3037.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Box Nation (HDS Streaming)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2765.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]Sports Channels MIO...[/COLOR][/I][/B]</title>
+<link>http://www.dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ten Cricket (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3246.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Star Cricket HD (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3245.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Setanta HD (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3243.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3240.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 2 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3241.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 3 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3242.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Football Fever 1 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3236.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Football Fever 2 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3237.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Eleven HD (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3239.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Eleven Sports (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3238.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fight Sports (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3244.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Mio Sports 101 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3228.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Mio Stadium 102 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3229.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Mio Stadium 103 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3230.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Mio Stadium 104 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3231.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Mio Stadium 105 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3232.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Mio Stadium 106 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3233.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Mio Stadium 107 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3234.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Mio Stadium 108 (MIO)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3235.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]Sports Channels USA...[/COLOR][/I][/B]</title>
+<link>http://www.dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3155.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2835.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3147.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>TSN Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2808.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>TSN Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2809.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>TSN Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2810.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>TSN Sport 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2811.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>TSN Sport 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2812.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2877.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>ESPN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3180.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>WWE Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3033.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>WWE Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2876.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2873.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet World</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2874.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>USA Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2927.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>NBC Golf HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2878.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fight</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2879.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BYU Sports TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2820.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2880.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Poker Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2872.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]Sports Channels World Mix...[/COLOR][/I][/B]</title>
+<link>http://www.dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2882.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2883.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2884.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2885.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2886.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2887.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium X HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2888.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sport TV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3115.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sport TV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3116.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sport TV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3117.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3111.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3112.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/3113.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Max 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2802.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Max 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2804.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Max 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2803.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Max 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2807.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Max 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/danielle/danielle/2806.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>

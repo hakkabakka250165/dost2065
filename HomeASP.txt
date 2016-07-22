@@ -1,0 +1,59 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 1[/COLOR][/I][/B]</name>
+<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP1.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP1.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 2[/COLOR][/I][/B]</name>
+<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP2.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP2.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 3[/COLOR][/I][/B]</name>
+<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP3.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP3.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 4[/COLOR][/I][/B]</name>
+<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP4.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP4.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 5[/COLOR][/I][/B]</name>
+<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP5.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP5.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Sports List & Bein...Server 6[/COLOR][/I][/B]</name>
+<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP6.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP6.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+</channel>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]World Mix Sports Channels...Netherlands[/COLOR][/I][/B]</title>
+<link>http://dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/499.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/498.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/497.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/496.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/495.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sport 1 Voetbal HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/807.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sport 1 Select HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/808.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sport 1 Golf_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/810.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sport 1 Extra 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/812.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sport 1 Extra 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/811.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]World Mix Sports Channels...Turkey[/COLOR][/I][/B]</title>
+<link>http://dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRT Spor HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3646.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sports TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3649.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>NTV Spor HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3647.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3687.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3686.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3681.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3689.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3692.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3683.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3695.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>A Spor HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3648.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]World Mix Sports Channels...Bein Sport[/COLOR][/I][/B]</title>
+<link>http://dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/57.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/58.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/250.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/251.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/252.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/304.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/305.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/306.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/802.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/1169.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/1177.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/1178.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/2213.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 14</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/2214.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 15</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/2215.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 1 (H265)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/860.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 2 (H265)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3188.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 3 (H265)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3189.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 4 (H265)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3190.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 5 (H265)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3191.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 6 (H265)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3192.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 7 (H265)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3193.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 8 (H265)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/3194.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport MAX 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/2395.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport MAX 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/2394.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport MAX 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/2393.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport MAX 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/2392.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport MAX 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/aziz/aziz/2391.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
