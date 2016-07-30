@@ -3,6 +3,282 @@
 <item>
 
 <item>
+<title>[B][I][COLOR cornflowerblue]UK Sports Channels and More...[/COLOR][/I][/B]</title>
+<link>http://dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2249.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2250.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2296.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2297.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2298.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2299.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2301.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2300.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports Europe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2826.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BT Sports ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2816.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Select HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2307.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Action HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2314.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies SciFi & Horror HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2308.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2309.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2310.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Drama HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2311.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2313.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Disney HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2312.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2670.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>True Movies 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2333.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>True Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2334.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2524.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2841.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CBN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2567.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>ABC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2568.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>MTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2658.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>CNN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2659.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2664.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2663.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BBC 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2318.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BBC 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2319.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BBC 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2320.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>BBC 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2321.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2340.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>National Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2671.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2661.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2662.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery Science</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2343.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2660.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery Home Health</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2666.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2342.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2668.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Discovery Investigation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2667.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>History Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2665.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Crime & Investigiation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2669.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
 <title>[B][I][COLOR cornflowerblue]USA Sports Channels and More...[/COLOR][/I][/B]</title>
 <link>http://dummytv.com</link>
 <thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
