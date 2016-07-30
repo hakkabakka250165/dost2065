@@ -187,3 +187,465 @@
 <link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2534.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]Bein Sports Channels and More...[/COLOR][/I][/B]</title>
+<link>http://dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1675.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1674.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1566.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1565.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1564.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1563.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/487.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/10.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/9.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/8.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 11 HD (English)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/7.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 12 HD (English) </title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/6.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 13 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/5.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 14 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/4.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 15 HD (Spain)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/3.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 16 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 17 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2917.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1791.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1777.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1776.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1775.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1773.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1772.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1679.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1678.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1677.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/1676.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2594.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2593.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2592.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Abu Dhabi Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2411.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Abu Dhabi Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2412.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Abu Dhabi Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2413.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Abu Dhabi Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2415.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Abu Dhabi Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2523.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2295.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2416.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>WWE Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2417.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>WWE Network HD+</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2483.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fight Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2848.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Extreme Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2596.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>PPV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2460.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>PPV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2461.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>PPV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2462.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>PPV 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2463.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>PPV WWE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2464.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]Mix World Sports Channels and More...[/COLOR][/I][/B]</title>
+<link>http://dummytv.com</link>
+<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 (Italy)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2518.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 (Italy)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2520.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 (Italy)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2519.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 24 (Italy)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2521.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1 (Italy)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2517.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports (Italy)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2508.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Super Calcio (Italy)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2575.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 1 (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2786.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 2 (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2787.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 3 (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2788.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>TRT Sport HD (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2827.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>NTV Sport (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2803.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>A Sport (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2812.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport HD 1 (Germany)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2322.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport HD 2 (Germany)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2323.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Sky Bundesliga HD (Germany)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2425.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 1 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2282.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 2 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2283.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 3 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2302.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports MAX 4 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2545.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports MAX 5 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2544.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports MAX 6 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2543.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports MAX 7 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2542.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Digi Sport 1 (Russia)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2606.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Digi Sport 2 (Russia)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2486.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Digi Sport 3 (Russia)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2979.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Digi Sport 4 (Russia)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2980.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Football 1 (Russia)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2970.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>Football 2 (Russia)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsat.mine.nu:8000/live/mukhtar/mukhtar/2969.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
