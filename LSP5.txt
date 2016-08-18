@@ -3,451 +3,553 @@
 <item>
 
 <item>
-<title>[B][I][COLOR cornflowerblue]Sky Sports Channels and More...[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR cornflowerblue]UK Local Channels...[/COLOR][/I][/B]</title>
 <link>http://www.dummytv.com</link>
 <thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1086.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Animal Planet[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/264.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport NewsUk</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1087.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Discovery 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/263.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1088.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Discovery History[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/261.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1073.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Discovery Science[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/262.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1093.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Discovery Home & Health[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/260.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1092.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Discovery Turbo[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/259.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1091.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]ID[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/256.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1090.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Nat Geo Wild[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/257.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1089.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]National Geographic[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/258.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Premier Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1074.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Travel Channel 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/254.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Setanta Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1075.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Crime Investigation[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/255.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Setanta</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1076.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]DMAX[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/253.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BT Sport ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1077.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Action Movies[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/306.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BT Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1079.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Select Movies[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/308.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BT Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1078.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky ScFi Horror Movies[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/309.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BT Sport Europe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1085.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Premiere Movies[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/300.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Extra 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1084.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Thriller Movies[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/307.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Extra 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1083.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Movies Disney[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/301.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Extra 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1082.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Living 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/317.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Extra 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1081.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Greats Movies[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/302.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Extra 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1080.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Family Movies[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/303.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Extra 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1096.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Drama Movies[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/304.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>EuroSport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1095.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Comedy Movies[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/305.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>EuroSport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1094.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Atlantic[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/318.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Racing UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1116.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Comedy Xtra[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/333.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Motors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1097.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Comedy Central[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/334.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BBC 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1142.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Arts[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/319.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BBC 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1141.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]True Movies 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/310.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BBC 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1140.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]True Movies 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/311.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BBC 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1139.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky News[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/297.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>ITV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1146.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]CNN[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/299.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>ITV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1145.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]BBC News[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/296.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>ITV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1144.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]BBC One HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/275.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>ITV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1143.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]BBC Two HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/276.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Premiere HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1105.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]BBC Three HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/277.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Scifi / Horror HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1106.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]CBS Action[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/340.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Family HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1107.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]CBS Reality 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/338.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1108.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]CBS Drama[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/339.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1109.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/315.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Drama HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1121.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/316.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Select HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1122.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]RTE Two[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/279.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1123.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]RTE One[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/278.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>True Movies 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1115.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Real Lives[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/335.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>True Movies 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1114.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Pick[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/330.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>CNBC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1098.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Yesterday 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/322.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>CNN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1099.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Watch[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/325.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Dmax</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1100.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]UTV IE[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/286.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Yesterday</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1102.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]True Entertainment[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/312.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>RTE 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1101.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]TV3 IE[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/287.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>RTE One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1104.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]TG4[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/288.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>RTE Two</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1103.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]TCM[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/313.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Movies 4Men</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1111.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]TCM 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/314.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>More4 +1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1112.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]SyFy[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/320.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky One HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1113.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Movie4men 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/337.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Sky MTV Hits</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1110.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]More 4[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/294.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Watch Ireland</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1117.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]London Live[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/344.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Fox News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1118.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]ITV Encore[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/285.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>BBC News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1119.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]ITV Be[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/284.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>5 USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1120.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]ITV 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/280.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1124.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]ITV 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/281.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Discovery Investigation HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1125.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]ITV 3[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/282.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Discovery Turbo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1126.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]ITV 4[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/283.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Discovery Science HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1127.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Horror Channel[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/341.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Discovery Shed</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1128.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Home 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/327.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Discovery History</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1129.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]History[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/342.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Discovery ChannelHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1130.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]H2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/343.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1131.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Gold HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/328.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1132.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Fox News[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/298.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1133.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Food Network[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/336.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Channel 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1135.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Fine Living Network[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/332.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>Channel 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1134.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Film 4[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/293.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>CBS Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1136.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Eden 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/329.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>CBS Drama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1137.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]E4[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/295.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
 
 <item>
-<title>CBS Reality</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/456789/456789/1138.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]E Entertainment[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/323.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Drama[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/326.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Dave[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/321.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Alibi[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/324.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]3e[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/289.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Challenge[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/331.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Channel 4 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/292.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Channel 4[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/291.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Channel 5[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/290.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]VH1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/273.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]UK MTV Hits HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/178.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]VIVA the Hits[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/272.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]MTV Hits HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/270.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]MTV Classic[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/266.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]MTV Music[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/269.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]MTV Dance[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/271.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]MTV Base HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/267.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+</item>
+
+<item>
+<title>[B][I]MTV Rocks HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://showsatellite.dyndns.tv:8000/live/saleem/saleem/268.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
 </item>
