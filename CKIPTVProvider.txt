@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Cable King IPTV Provider[/COLOR][/I][/B]</title>
+<thumbnail>http://apk-dl.com/detail/screenshot/JfWcMvqqdYJ_zh3G4mUlVrXsOlawcaqpI0l1GBFLHMB4SJslSe7eghe9jtaakxtSLis=h500.png</thumbnail>
+<fanart>http://osarena.net/sites/default/files/files/2015/05/16/iptv1.png</fanart>
+<link>http://Ignoreme</link>
+<externallink>http://cableking-iptv.com:8000/get.php?username=don&amp;password=don&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+</item>
