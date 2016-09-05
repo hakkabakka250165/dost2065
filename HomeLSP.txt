@@ -3,74 +3,20 @@
 <channels>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 1 (Updated 30/07/2016)[/COLOR][/I][/B]</name>
-<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP1.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP1.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 2 (Updated 30/07/2016)[/COLOR][/I][/B]</name>
-<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP2.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP2.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 3 (Updated 30/07/2016)[/COLOR][/I][/B]</name>
-<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 3 (Checked 05/09/2016)[/COLOR][/I][/B]</name>
+<thumbnail>https://4.bp.blogspot.com/-eatCADVA-KQ/Vriq_1zxOWI/AAAAAAAADWY/uabpc_OocVA/s320/all-sports-banner.png</thumbnail>
+<fanart>http://ww1.prweb.com/prfiles/2013/04/15/10635694/ThumbAthletes.jpeg</fanart>
 <link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP3.txt</link>
 <externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP3.txt</externallink>
 <info>For Personal Use Only...!!!</info>
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 4 (Updated 18/08/2016)[/COLOR][/I][/B]</name>
-<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP4.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP4.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 5 (Updated 18/08/2016)[/COLOR][/I][/B]</name>
-<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP5.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP5.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & Bein...Server 6[/COLOR][/I][/B]</name>
-<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
+<name>[B][I][COLOR cornflowerblue]Sports List & Bein...Server 6 (Checked 05/09/2016)[/COLOR][/I][/B]</name>
+<thumbnail>https://4.bp.blogspot.com/-eatCADVA-KQ/Vriq_1zxOWI/AAAAAAAADWY/uabpc_OocVA/s320/all-sports-banner.png</thumbnail>
+<fanart>http://ww1.prweb.com/prfiles/2013/04/15/10635694/ThumbAthletes.jpeg</fanart>
 <link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP6.txt</link>
 <externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP6.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & Bein...Server 7 (Updated 18/08/2016)[/COLOR][/I][/B]</name>
-<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP7.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP7.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 8 (Updated 18/08/2016)[/COLOR][/I][/B]</name>
-<thumbnail>http://iptv-premium.com/106-tm_home_default/iptv-premium-package-gold.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/MpflEqe5AIU/maxresdefault.jpg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP8.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP8.txt</externallink>
 <info>For Personal Use Only...!!!</info>
 </channel>
 
