@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+
+<item>
+<title>Sky Sports Box Office 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/wendy1/wendy1/7081.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/412952452783026176/7Edgn-JM_400x400.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Box Office 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/michael99/michael99/7081.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/412952452783026176/7Edgn-JM_400x400.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Box Office 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/mail/mail/7081.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/412952452783026176/7Edgn-JM_400x400.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Box Office 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/7081.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/412952452783026176/7Edgn-JM_400x400.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Box Office 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/marlon/marlon/7081.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/412952452783026176/7Edgn-JM_400x400.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Box Office 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/1212/1212/10101.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/412952452783026176/7Edgn-JM_400x400.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Box Office 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/max/max/10101.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/412952452783026176/7Edgn-JM_400x400.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Box Office 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/kamran/kamran/10101.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/412952452783026176/7Edgn-JM_400x400.jpeg</thumbnail>
+</item>
+
