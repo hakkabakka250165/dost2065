@@ -75,7 +75,7 @@
 </item>
 
 <item>
-<title>[B][I]Premier League 1 UHD(Live For EPL)[/I][/B]</title>
+<title>[B][I]Premier League 1 UHD (Live For EPL)[/I][/B]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/karljones/karljones/17755.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
@@ -99,7 +99,7 @@
 </item>
 
 <item>
-<title>[B][I]F1 Interactive 4K/UHD(Live For F1)[/I][/B]</title>
+<title>[B][I]F1 Interactive 4K/UHD (Live For F1)[/I][/B]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/karljones/karljones/17759.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
