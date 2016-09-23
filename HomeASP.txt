@@ -11,13 +11,4 @@
 <info>For Personal Use Only...!!!</info>
 </channel>
 
-<channel>
-<name>[B][I][COLOR cornflowerblue]Sky Sport Box Office (Checked 10/09/2016)[/COLOR][/I][/B]</name>
-<thumbnail>https://4.bp.blogspot.com/-eatCADVA-KQ/Vriq_1zxOWI/AAAAAAAADWY/uabpc_OocVA/s320/all-sports-banner.png</thumbnail>
-<fanart>http://ww1.prweb.com/prfiles/2013/04/15/10635694/ThumbAthletes.jpeg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSPskybox.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSPskybox.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
 </channel>
