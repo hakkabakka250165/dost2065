@@ -3,8 +3,8 @@
 <channels>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...Ziggo & Fox Sport...[/COLOR][/I][/B]</name>
-<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...Ziggo & Fox Sport...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
 <fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
 <link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP1.txt</link>
 <externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP1.txt</externallink>
@@ -12,8 +12,8 @@
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...EPL Matchday Sports...[/COLOR][/I][/B]</name>
-<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...EPL Matchday Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
 <fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
 <link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP2.txt</link>
 <externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP2.txt</externallink>
@@ -21,8 +21,8 @@
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...UK Sky Sports...[/COLOR][/I][/B]</name>
-<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...UK Sky Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
 <fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
 <link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP4.txt</link>
 <externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP4.txt</externallink>
@@ -30,8 +30,8 @@
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...MIO Stadium Sports...[/COLOR][/I][/B]</name>
-<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...MIO Stadium Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
 <fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
 <link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP5.txt</link>
 <externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP5.txt</externallink>
@@ -39,8 +39,8 @@
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...USA & TSN Sports...[/COLOR][/I][/B]</name>
-<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...USA & TSN Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
 <fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
 <link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP3.txt</link>
 <externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP3.txt</externallink>
@@ -48,8 +48,8 @@
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...Bein Sports...[/COLOR][/I][/B]</name>
-<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...Bein Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
 <fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
 <link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP6.txt</link>
 <externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP6.txt</externallink>
