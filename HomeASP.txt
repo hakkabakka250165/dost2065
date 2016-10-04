@@ -3,11 +3,56 @@
 <channels>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 3 (Checked 05/09/2016)[/COLOR][/I][/B]</name>
-<thumbnail>https://4.bp.blogspot.com/-eatCADVA-KQ/Vriq_1zxOWI/AAAAAAAADWY/uabpc_OocVA/s320/all-sports-banner.png</thumbnail>
-<fanart>http://ww1.prweb.com/prfiles/2013/04/15/10635694/ThumbAthletes.jpeg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP3.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/ASP3.txt</externallink>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...Ziggo & Fox Sport...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/ASP1.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/ASP1.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...EPL Matchday Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/ASP2.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/ASP2.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...UK Sky Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/ASP4.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/ASP4.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...MIO Stadium Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/ASP5.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/ASP5.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...USA & TSN Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/ASP3.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/ASP3.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...Bein Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/ASP6.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/ASP6.txt</externallink>
 <info>For Personal Use Only...!!!</info>
 </channel>
 

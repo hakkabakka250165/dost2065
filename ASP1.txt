@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+
+<item>
+<title>[B][I]Ziggo Sport Voetbal[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/7769.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Ziggo Sport Select HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/7770.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Ziggo Sport Racing[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/7771.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Ziggo Sport Golf[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/7772.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Ziggo Sport eXtra 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/7774.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Ziggo Sport eXtra 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/7773.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Fox Sport 1 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8176.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
+</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Fox Sport 2 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8177.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
+</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Fox Sport 3 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8178.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
+</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Fox Sport 4 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8179.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
+</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Fox Sport 5 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8180.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
+</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Fox Sport 6 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8181.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
+</thumbnail>
+</item>
+
+<item>
+<title>[B][I]NBC Sports Extra 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8169.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
+</item>
+
+<item>
+<title>[B][I]NBC Sports Extra 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8170.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
+</item>
+
+<item>
+<title>[B][I]NBC Sports Extra 3[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8171.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
+</item>
+
+<item>
+<title>[B][I]NBC Sports Extra 4[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8172.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
+</item>
+
+<item>
+<title>[B][I]NBC Sports Extra 5[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8173.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
+</item>
+
+<item>
+<title>[B][I]NBC Sports Extra 6[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8174.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
+</item>
+
+<item>
+<title>[B][I]NBC Sports Extra 7[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/snowdon/snowdon/8175.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
+</item>
