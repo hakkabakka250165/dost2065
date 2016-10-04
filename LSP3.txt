@@ -3,787 +3,103 @@
 <item>
 
 <item>
-<title>[B][I][COLOR cornflowerblue]UK Sport Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
+<title>[B][I]TSN 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8672.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>EuroSport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/740.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]TSN 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8673.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>EuroSport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/741.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]TSN 3[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8674.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>Boxnation UK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/763.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]TSN 4[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8675.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>Boxnation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1340.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]TSN 5[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8676.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>Sky News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1369.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]Fox Sports 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8662.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1337.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]Fox Sports 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8663.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1336.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]Bein USA[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8660.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 3 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1335.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]SportsNet World[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8670.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1334.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]SportsNet Ontario[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8669.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1333.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]SportsNet ONE[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8668.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1339.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]NFL[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8667.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1338.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]NBC USA[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8656.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>BT Sport Europe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1327.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]NBC Sports[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8665.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Extra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/780.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]NBC Golf[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8664.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Extra 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1322.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]NBA USA[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8655.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Extra 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1323.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>BT Sports Extra 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1324.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>BT Sports Extra 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1325.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>BT Sports Extra 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1326.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/766.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/767.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>BT Sport ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/768.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Setanta</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/755.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Setanta Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/757.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premier Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/756.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/771.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/772.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/773.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/774.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/775.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]German Sport Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
-</item>
-
-<item>
-<title>Eurosport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1188.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sport 1  HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/523.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sport +1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/525.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sport 1 US HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/524.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 1 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/529.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/520.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 2 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/528.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/521.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport Austria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/526.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/510.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga 2 HD (Weekend Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/511.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga 3 HD (Weekend Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/512.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga 4 HD (Weekend Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/513.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga 5 HD (Weekend Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/514.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga 6 HD (Weekend Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/515.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga 7 HD (Weekend Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/516.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga 8 HD (Weekend Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/517.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga 9 HD (Weekend Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/518.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga 10 HD (Weekend Only)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/519.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Motorvision TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/531.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sport DigiTal HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1551.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>SRF Sport Live HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1252.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Turkey Sport Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
-</item>
-
-<item>
-<title>TRT Spor</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/264.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>TRT Spor [Backup]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/265.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>LIG TV 1 (VIP)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1133.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>LIG TV 2 (VIP)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1134.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>LIG TV 3 (VIP)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1135.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>LIG TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/251.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>LIG TV 1 [Backup]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/252.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>LIG TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/253.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>LIG TV 2 [Backup]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/254.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>LIG TV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/255.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>LIG TV 3 [Backup]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/256.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>LIG TV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/257.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Tivibu Spor 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/258.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Tivibu Spor 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/259.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>A Spor HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/260.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>A Spor HD [Backup]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/261.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>NTV Spor</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/262.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>EuroSport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/263.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>EuroSport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/266.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]France Sport Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
-</item>
-
-<item>
-<title>Canal+ Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/856.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Foot+ 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/818.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/826.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/827.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/828.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport MAX 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/831.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport MAX 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/832.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport MAX 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/833.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport MAX 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/829.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Ma Chain Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/812.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Bein Sport Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport HD 1 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1861.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport HD 2 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1860.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport HD 3 </title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1859.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport HD 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1858.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport HD 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1857.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport HD 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1856.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport HD 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1855.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport HD 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1854.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport HD 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1853.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport HD 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1852.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Italy Sport Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://satinet.info/wp-content/uploads/2015/10/240.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sport Italia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1174.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/616.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1176.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium EuroSport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/645.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium EuroSport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/644.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Super Tennis</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/624.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Fox Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/621.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/591.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/592.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/593.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 24 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/595.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/594.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport Plus HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/685.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Moto GP HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/598.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Super Calcio</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/642.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/596.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/597.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/574.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/573.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/572.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/571.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/570.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/569.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/568.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/575.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/662.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/617.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/661.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/649.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/648.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/894.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/895.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/896.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/zeybek/zeybek/1247.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://lh3.googleusercontent.com/otI2uqkCv6b7xOdx7UhZhj0z6F-dJi0O6I0iF5UbwbTZWJ1RPgCBx4nN4eN4TRKyuFJ_=w300</thumbnail>
+<title>[B][I]MLB[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8700.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>

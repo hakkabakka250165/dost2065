@@ -3,29 +3,56 @@
 <channels>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & More...Server 3 (Checked 05/09/2016)[/COLOR][/I][/B]</name>
-<thumbnail>https://4.bp.blogspot.com/-eatCADVA-KQ/Vriq_1zxOWI/AAAAAAAADWY/uabpc_OocVA/s320/all-sports-banner.png</thumbnail>
-<fanart>http://ww1.prweb.com/prfiles/2013/04/15/10635694/ThumbAthletes.jpeg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP3.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP3.txt</externallink>
+<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...Ziggo & Fox Sport...[/COLOR][/I][/B]</name>
+<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP1.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP1.txt</externallink>
 <info>For Personal Use Only...!!!</info>
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Sports List & Bein...Server 6 (Checked 05/09/2016)[/COLOR][/I][/B]</name>
-<thumbnail>https://4.bp.blogspot.com/-eatCADVA-KQ/Vriq_1zxOWI/AAAAAAAADWY/uabpc_OocVA/s320/all-sports-banner.png</thumbnail>
-<fanart>http://ww1.prweb.com/prfiles/2013/04/15/10635694/ThumbAthletes.jpeg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP6.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP6.txt</externallink>
+<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...EPL Matchday Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP2.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP2.txt</externallink>
 <info>For Personal Use Only...!!!</info>
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Ultimate World Sports Channels[/COLOR][/I][/B]</name>
-<thumbnail>https://4.bp.blogspot.com/-eatCADVA-KQ/Vriq_1zxOWI/AAAAAAAADWY/uabpc_OocVA/s320/all-sports-banner.png</thumbnail>
-<fanart>http://ww1.prweb.com/prfiles/2013/04/15/10635694/ThumbAthletes.jpeg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSPskybox.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSPskybox.txt</externallink>
+<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...UK Sky Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP4.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP4.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...MIO Stadium Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP5.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP5.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...USA & TSN Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP3.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP3.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]ZRF Premium Sports...Bein Sports...[/COLOR][/I][/B]</name>
+<thumbnail>http://1.bp.blogspot.com/_SmEgfml-44k/TI5IdtfanII/AAAAAAAAAaA/ZL4ne3UIxrM/s320/Zee_Sports+logo.png</thumbnail>
+<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
+<link>https://raw.githubusercontent.com/paneladresi/goster/master/LSP6.txt</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/goster/master/LSP6.txt</externallink>
 <info>For Personal Use Only...!!!</info>
 </channel>
 
