@@ -4,102 +4,102 @@
 
 <item>
 <title>[B][I]TSN 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8672.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8672.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]TSN 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8673.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8673.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]TSN 3[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8674.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8674.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]TSN 4[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8675.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8675.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]TSN 5[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8676.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8676.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Fox Sports 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8662.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8662.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Fox Sports 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8663.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8663.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein USA[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8660.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8660.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]SportsNet World[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8670.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8670.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]SportsNet Ontario[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8669.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8669.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]SportsNet ONE[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8668.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8668.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NFL[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8667.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8667.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC USA[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8656.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8656.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Sports[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8665.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8665.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Golf[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8664.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8664.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBA USA[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8655.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8655.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MLB[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/8700.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/8700.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>

@@ -4,90 +4,90 @@
 
 <item>
 <title>[B][I]Bein Sports 1 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7832.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7832.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 2 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7839.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7839.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 3 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7840.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7840.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 4 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7841.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7841.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 5 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7842.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7842.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 6 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7843.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7843.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 7 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7844.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7844.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 8 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7845.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7845.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 9 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7846.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7846.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 10 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7833.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7833.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 11 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7834.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7834.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 12 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7835.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7835.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 13 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7836.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7836.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 14 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7837.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7837.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports 15 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/chamberlain/chamberlain/7838.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/terry1/terry1/7838.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
