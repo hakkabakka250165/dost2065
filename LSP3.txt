@@ -4,258 +4,258 @@
 
 <item>
 <title>[B][I]Sportsnet West HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/13232.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/13232.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sportsnet Pacific HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/13234.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/13234.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sportsnet East HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/13233.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/13233.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sportsnet 360 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/13235.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/13235.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MLB Network HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/13231.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/13231.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NHL Network[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/12479.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12479.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NHL[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/12478.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12478.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]PAC-12 Washington HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/10143.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10143.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]PAC-12 Oregon HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/10141.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10141.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]PAC-12 Network HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/10137.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10137.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]PAC-12 Mountain HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/10142.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10142.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]PAC-12 Los AngelesHD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/10140.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10140.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]PAC-12 Bay Area HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/10138.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10138.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]PAC-12 Arizona  HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/10139.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10139.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Astro Super Sport 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9518.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9518.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Astro Super Sport 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9519.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9519.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Astro Super Sport 3[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9520.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9520.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]FOX Sport 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8681.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8681.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Fox Sport 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9391.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9391.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Fox Sports 506 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9528.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9528.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8393.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8393.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Golf HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9526.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9526.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC SN[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9523.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9523.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Sports Network HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9325.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9325.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBCSN[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9389.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9389.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NFL Network HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8693.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8693.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NFL HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9522.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9522.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sport 1 USA HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9515.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9515.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sports Net[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9525.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9525.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]SportsNet One HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9343.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9343.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]SportsNet Ontario[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9342.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9342.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]SportsNet World HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9341.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9341.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Tsn Sport 1 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8293.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8293.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Tsn Sport 2 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8292.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8292.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Tsn Sport 3 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8291.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8291.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Tsn Sport 4 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8290.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8290.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Tsn Sport 5 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8289.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8289.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Tsn Sport 5 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/12547.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12547.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]WWE Network[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8410.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8410.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]PPV WWE HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/9151.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9151.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBA TV[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8309.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8309.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Fight Sport[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/8308.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8308.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Versus[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/spark/spark/2904.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/2904.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>

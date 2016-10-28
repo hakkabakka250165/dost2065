@@ -3,121 +3,73 @@
 <item>
 
 <item>
-<title>[B][I]Ziggo Sport Voetbal[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/7769.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+<title>[B][I]True Sport HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/12492.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Ziggo Sport Select HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/7770.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+<title>[B][I]True Sport HD 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/12493.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Ziggo Sport Racing[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/7771.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+<title>[B][I]True Sport HD 3[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/12494.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Ziggo Sport Golf[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/7772.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+<title>[B][I]True Sport HD 4[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/12495.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Ziggo Sport eXtra 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/7774.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+<title>[B][I]Bein Sports  True Visions 1 (3PM PREMIER)[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/12489.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Ziggo Sport eXtra 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/7773.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.basketballleague.nl/newsimages/2015/logo_ziggo_sport_grijs_vierkant0211201530123930.jpg</thumbnail>
+<title>[B][I]NBC Live Sports Extra 1 HD Match Time[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/12517.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Fox Sport 1 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8176.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
-</thumbnail>
+<title>[B][I]NBC Live Sports Extra 2 HD Match Time[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/12518.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Fox Sport 2 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8177.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
-</thumbnail>
+<title>[B][I]NBC Live Sports Extra 3 HD Match Time[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/12519.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Fox Sport 3 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8178.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
-</thumbnail>
+<title>[B][I]NBC Live Sports Extra 4 HD Match Time[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/12520.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Fox Sport 4 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8179.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
-</thumbnail>
+<title>[B][I]NBC Live Sports Extra 5 HD Match Time[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/12521.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Fox Sport 5 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8180.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
-</thumbnail>
+<title>[B][I]NBC E.P.L Extra 6 (Live During EPL)[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/8399.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Fox Sport 6 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8181.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://1.bp.blogspot.com/-Jol-z3LdciA/TZMMMYKY3tI/AAAAAAAAAtw/jklRanX-3l4/s1600/fox_sports_network_fan.png</thumbnail>
-</thumbnail>
-</item>
-
-<item>
-<title>[B][I]NBC Sports Extra 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8169.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I]NBC Sports Extra 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8170.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I]NBC Sports Extra 3[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8171.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I]NBC Sports Extra 4[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8172.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I]NBC Sports Extra 5[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8173.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I]NBC Sports Extra 6[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8174.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I]NBC Sports Extra 7[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/wendy1/wendy1/8175.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
+<title>[B][I]NBC E.P.L Extra 7 (Live During EPL)[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/manta/manta/8400.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
