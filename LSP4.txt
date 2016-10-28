@@ -3,133 +3,259 @@
 <item>
 
 <item>
-<title>[B][I]Sky Sports F1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8439.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Sports News HQ HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/6981.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Sky Sports News HQ[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8391.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sky Sports 1 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8430.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8352.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sky Sports 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8429.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7035.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sky Sports 2 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8432.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8351.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sky Sports 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8431.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7036.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sky Sports 3 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8434.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8350.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sky Sports 3[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8433.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7037.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sky Sports 4 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8436.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9549.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sky Sports 4[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8435.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7038.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sky Sports 5 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8438.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8349.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sky Sports 5[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8437.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7039.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Sky Box Office (Only Show PPV Events)[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/7737.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Sports F1 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7987.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Setanta Sports[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8410.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Sports  F1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7067.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Setanta Sport Ireland[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8409.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Eurosport 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7031.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Premier Sports HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8401.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Eurosport 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7374.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Premier Sports[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8402.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10163.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Premier Sport[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12498.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Motors TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8257.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]At The Races[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/6984.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Racing UK[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7376.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]BT Sports Mosaic HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9149.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]BT Sports Mosaic 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12531.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]BT Sport 1 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7041.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]BT Sport 2 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7042.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]BT Sport 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8361.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]BT Sport Europe/3 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8360.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]BT Sport/ESPN HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8358.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]BT Sport ESPN[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/6985.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]BT Sports Europe[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7081.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]BT Sports Extra 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8341.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7370.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]BT Sports 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8338.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Bet[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9148.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]BT Sports 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8339.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Setanta HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8241.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]BT Sports ESPN[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8340.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]BT Europe HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8337.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Sky Setanta Sports[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7040.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Box Nation[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ju031.jupiter.fastwebserver.de:8000/live/derek1/derek1/8336.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7082.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Sky Box Office (PPV Events Only)[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7979.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]MUTV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7043.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Chelsea TV HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/7044.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Chelsea TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8359.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Liverpool LFCTV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9553.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Rangers TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12482.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Everton FC TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12484.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Celtic FC TV (Live for Matches )[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12457.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
