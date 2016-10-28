@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Premium Sports...Ziggo & Fox Sport...[/COLOR][/I][/B]</name>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...NBC Live Sports Extra and More...[/COLOR][/I][/B]</name>
 <thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
 <fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
 <link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP1.txt</link>
@@ -12,29 +12,11 @@
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Premium Sports...EPL Matchday Sports...[/COLOR][/I][/B]</name>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...MIO Stadium Sports...[/COLOR][/I][/B]</name>
 <thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
 <fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
 <link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP2.txt</link>
 <externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP2.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Premium Sports...UK Sky Sports...[/COLOR][/I][/B]</name>
-<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
-<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP4.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP4.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Premium Sports...MIO Stadium Sports...[/COLOR][/I][/B]</name>
-<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
-<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP5.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP5.txt</externallink>
 <info>For Personal Use Only...!!!</info>
 </channel>
 
@@ -48,11 +30,11 @@
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Premium Sports...Bein Sports...[/COLOR][/I][/B]</name>
+<name>[B][I][COLOR cornflowerblue]Premium Sports...UK Sky Sports...[/COLOR][/I][/B]</name>
 <thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
 <fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP6.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP6.txt</externallink>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP4.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP4.txt</externallink>
 <info>For Personal Use Only...!!!</info>
 </channel>
 
