@@ -3,259 +3,403 @@
 <item>
 
 <item>
-<title>[B][I]Sportsnet West HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/13232.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]WWE HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8536.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Sportsnet Pacific HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/13234.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]VEVO3[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8535.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Sportsnet East HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/13233.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]VEVO2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8534.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Sportsnet 360 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/13235.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]MLB Network HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/13231.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]NHL Network[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12479.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]NHL[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12478.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]PAC-12 Washington HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10143.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]PAC-12 Oregon HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10141.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]PAC-12 Network HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10137.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]PAC-12 Mountain HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10142.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]PAC-12 Los AngelesHD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10140.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]PAC-12 Bay Area HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10138.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]PAC-12 Arizona  HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/10139.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Astro Super Sport 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9518.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Astro Super Sport 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9519.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Astro Super Sport 3[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9520.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]FOX Sport 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8681.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Fox Sport 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9391.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Fox Sports 506 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9528.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
-</item>
-
-<item>
-<title>[B][I]NBC[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8393.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]VEVO1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8533.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Golf HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9526.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8532.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]NBC SN[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9523.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]CPAC News[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8531.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]NBC Sports Network HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9325.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]CNBC WORLD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8530.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]NBCSN[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9389.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Bein Sports HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8529.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]NFL Network HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8693.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Tru HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8517.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]NFL HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9522.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]TBS HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8516.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Sport 1 USA HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9515.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]Starz Cinema HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8515.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Sports Net[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9525.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]STARS WEST[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8514.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]SportsNet One HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9343.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]STARS KIDS & FAMILY[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8513.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]STAR Z CINEMA[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8512.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]SportsNet Ontario[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9342.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8511.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]SportsNet World HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9341.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]SPACE[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8510.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Tsn Sport 1 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8293.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]PAG HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8509.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Tsn Sport 2 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8292.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]O.W.N HD (oprah winfrey network)[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8508.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Tsn Sport 3 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8291.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]NICK[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8507.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Tsn Sport 4 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8290.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]MMA FIGHT[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8506.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Tsn Sport 5 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8289.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]LIFE TIME[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8505.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Tsn Sport 5 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/12547.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]History Channel Canada[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8504.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]WWE Network[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8410.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]HGTV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8503.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]PPV WWE HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/9151.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]HBO SIGNATURE[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8502.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]NBA TV[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8309.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]HBO Family[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8501.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Fight Sport[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/8308.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]HBO East[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8500.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Versus[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/kevin/kevin/2904.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[B][I]HALLMARK[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8499.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]H2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8498.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Fight Network[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8497.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]CBS REALITY[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8496.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]CBS HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8495.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]CBS DRAMA[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8494.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]CBS ACTION[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8493.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]WXYZ TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8492.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]WGN[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8491.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Versus NBA HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8490.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]UC TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8489.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Twit TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8488.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]TSC[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8487.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Travel Channel HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8486.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Toonami Aftermath[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8485.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]The Florida Channel[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8484.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Tech Channel[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8483.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Star Trek[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8482.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Sport1 US HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8481.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Showtime HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8480.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]RT Documentary[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8479.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]RT America HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8478.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Redbull TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8477.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Pocker Central[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8476.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Nasa TV HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8475.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Mute TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8474.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Motor Sports 7 HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8473.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Miami TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8472.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Mello TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8471.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]HSN 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8470.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]HSN 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8469.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Fox 59 News[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8468.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Film Noir Classic Channel[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8467.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Fashion One[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8466.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]D23 TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8465.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Cinemax[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8464.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]BYU Sports TV HD[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8463.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]Boston City TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8462.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]At The Drive-in[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8461.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]AMG TV[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8460.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
+</item>
+
+<item>
+<title>[B][I]360 North[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8459.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>

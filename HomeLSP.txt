@@ -3,11 +3,56 @@
 <channels>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Bulldog Streams IPTV...[/COLOR][/I][/B]</name>
+<name>[B][I][COLOR cornflowerblue]Bulldog Streams IPTV...Canadian Sports & Local[/COLOR][/I][/B]</name>
 <thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/BDIPTV.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/BDIPTV.txt</externallink>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP1.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP1.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Bulldog Streams IPTV...EPL & MIO Sports Matchday[/COLOR][/I][/B]</name>
+<thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP2.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP2.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Bulldog Streams IPTV...USA Sports & Local[/COLOR][/I][/B]</name>
+<thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP3.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP3.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Bulldog Streams IPTV...UK Sports & Local[/COLOR][/I][/B]</name>
+<thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP4.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP4.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Bulldog Streams IPTV...NBC Extra & World Sports[/COLOR][/I][/B]</name>
+<thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP5.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP5.txt</externallink>
+<info>For Personal Use Only...!!!</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Bulldog Streams IPTV...Bein Sports[/COLOR][/I][/B]</name>
+<thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP6.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP6.txt</externallink>
 <info>For Personal Use Only...!!!</info>
 </channel>
 
