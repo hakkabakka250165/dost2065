@@ -4,210 +4,210 @@
 
 <item>
 <title>[B][I]Sport 1 Voetbal[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8199.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8199.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Ziggo Sport Voetbal[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7769.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7769.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Ziggo Sport Select HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7770.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7770.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Ziggo Sport Racing[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7771.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7771.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Ziggo Sport Golf[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7772.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7772.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Ziggo Sport eXtra 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7773.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7773.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Ziggo Sport eXtra 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7774.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7774.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Sport 1 Select HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8187.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8187.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]FOX SPORTS 6 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8181.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8181.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]FOX SPORTS 5 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8180.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8180.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]FOX SPORTS 4HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8179.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8179.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]FOX SPORTS 3HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8178.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8178.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]FOX SPORTS 2 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8177.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8177.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]FOX SPORTS 1 HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8176.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8176.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Sports Extra 7[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8175.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8175.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Sports Extra 6[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8174.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8174.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Sports Extra 5[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8173.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8173.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Sports Extra 4[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8172.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8172.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Sports Extra 3[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8171.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8171.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Sports Extra 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8170.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8170.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]NBC Sports Extra 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8169.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8169.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]ASTRO SPORTS 3HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8168.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8168.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]ASTRO SPORTS 2HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8167.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8167.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]ASTRO SPORTS 1HD[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8166.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8166.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO STADIUM 108[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7746.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7746.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO STADIUM 107[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8164.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8164.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO STADIUM 106[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8163.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8163.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO STADIUM 105[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8162.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8162.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO STADIUM 104[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8161.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8161.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO STADIUM 103[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8160.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8160.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO STADIUM 102[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/8159.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/8159.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO STADIUM[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7747.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7747.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO FOOTBALL FEVER[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7975.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7975.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO ELEVEN SPORTS[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7748.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7748.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]MIO ELEVEN[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7749.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7749.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>

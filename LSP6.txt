@@ -4,90 +4,90 @@
 
 <item>
 <title>[B][I]Bein Sports HD 1[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7832.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7832.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 2[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7839.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7839.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 3[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7840.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7840.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 4[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7841.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7841.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 5[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7842.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7842.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 6[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7843.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7843.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 7[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7844.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7844.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 8[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7845.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7845.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 9[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7846.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7846.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 10[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7833.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7833.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 11[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7834.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7834.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 12[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7835.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7835.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 13 [/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7836.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7836.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 14[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7837.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7837.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
 
 <item>
 <title>[B][I]Bein Sports HD 15[/I][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/harold/harold/7838.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://playlist.bulldogstreams.football:8000/live/steven/steven/7838.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://static1.squarespace.com/static/54da48ece4b0661469f09b8d/562df83ae4b03f1a973c78c7/57d1a798c534a562b141dd04/1473359190807/gold-package-1.png?format=500w</thumbnail>
 </item>
