@@ -3,38 +3,11 @@
 <channels>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Premium Sports...NBC Live Sports Extra and More...[/COLOR][/I][/B]</name>
-<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
-<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP1.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP1.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Premium Sports...MIO Stadium Sports...[/COLOR][/I][/B]</name>
-<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
-<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP2.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP2.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Premium Sports...USA & TSN Sports...[/COLOR][/I][/B]</name>
-<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
-<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP3.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP3.txt</externallink>
-<info>For Personal Use Only...!!!</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Premium Sports...UK Sky Sports...[/COLOR][/I][/B]</name>
-<thumbnail>http://www.snapshots77.com/communities/1/004/011/162/741/images/4625740654.png</thumbnail>
-<fanart>http://static1.squarespace.com/static/54ed4969e4b0d7bc31255caa/t/54f766c8e4b04864be315e7c/1425499854537/all-sports-banner.png?format=1500w</fanart>
-<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP4.txt</link>
-<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/LSP4.txt</externallink>
+<name>[B][I][COLOR cornflowerblue]Bulldog Streams IPTV...[/COLOR][/I][/B]</name>
+<thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
+<link>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/BDIPTV.txt</link>
+<externallink>https://raw.githubusercontent.com/hakkabakka250165/dost2065/master/BDIPTV.txt</externallink>
 <info>For Personal Use Only...!!!</info>
 </channel>
 
